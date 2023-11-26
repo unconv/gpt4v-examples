@@ -1,0 +1,11 @@
+__pycache__/
+node_modules/
+screenshots/
+splits/
+images/
+code.html
+creation.webp
+image_data.json
+original_screenshots.json
+translator.jpg
+screenshot.jpg
